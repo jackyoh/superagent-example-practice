@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Superagent Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackyoh/superagent-example-practice.git"
+  },
+  "author": "jackyoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackyoh/superagent-example-practice/issues"
+  },
+  "homepage": "https://github.com/jackyoh/superagent-example-practice#readme",
+  "devDependencies": {
+    "superagent": "^2.1.0"
+  }
+}
